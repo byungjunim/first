@@ -17,7 +17,7 @@ function App() {
                 >
                     Learn React
                 </a>
-                <p>와우</p>
+                <p>와우 추가헀다</p>
             </header>
         </div>
     );
